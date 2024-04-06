@@ -1,0 +1,4 @@
+(library
+ (name poolparty)
+ (public_name poolparty)
+ (libraries riot))
